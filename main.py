@@ -1,5 +1,5 @@
 import telebot
-import modul
+import modul as ismlar
 
 TOKEN = "7121440092:AAEykdaNrTNbh5goUKTItBBazuDTHEYgTGY"
 bot = telebot.TeleBot(TOKEN)
